@@ -1,2 +1,2 @@
 # pacman
-This is a really simple pacman game to just get some practice
+This game runs on HTML, CSS, and JS.  There are no additional dependecies for this project.  Have fun!
